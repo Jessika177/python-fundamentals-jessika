@@ -13,7 +13,6 @@ print("Variables:")
 print(name, age, numbers, person, fruits)
 print(fruits)
 print("-" * 40)
-
 # Conditionals
 if age < 18:
     print("You are a minor.")
@@ -34,7 +33,6 @@ while count < 3:
     print("Count is", count)
     count += 1
 print("-" * 40)
-
 # Built-in functions
 numbers = [1, 2, 3, 4, 5]
 
@@ -51,7 +49,6 @@ num_str = "42"
 num_int = int(num_str)
 print("Casting string '42' to int:", num_int + 10)
 print("-" * 40)
-
 # Using imported function
 print(greet(name))
 print("-" * 40)
@@ -63,4 +60,4 @@ if __name__ == "__main__":
         for i, arg in enumerate(sys.argv):
             print(f"Arg {i}: {arg}")
     else:
-        print("No command line arguments provided.")
+        print("No command line arguments provided.")
