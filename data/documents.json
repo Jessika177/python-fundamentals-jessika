@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "tags": ["programming", "python"],
+        "published": true,
+        "metadata": {"author": "Jessika"}
+    },
+    {
+        "id": 2,
+        "title": "Gardening Tips",
+        "published": false,
+        "metadata": {"difficulty": "easy"}
+    },
+    {
+        "id": 3,
+        "title": "Cooking Guide",
+        "tags": ["food", "recipes"],
+        "views": 250,
+        "metadata": {"category": "cooking"}
+    },
+    {
+        "id": 4,
+        "title": "Travel Destinations"
+    },
+    {
+        "id": 5,
+        "title": "Music Theory",
+        "tags": [],
+        "views": 500,
+        "published": true,
+        "metadata": {}
+    },
+    {
+        "id": 6,
+        "title": "Fitness and Health",
+        "tags": ["wellness", "fitness"],
+        "views": 350,
+        "published": true,
+        "metadata": {"trainer": "Alice"}
+    },
+    {
+        "id": 7,
+        "title": "History of Art",
+        "published": false
+    },
+    {
+        "id": 8,
+        "title": "Modern Technology",
+        "tags": ["tech", "innovation"],
+        "views": 900,
+        "metadata": {"topic": "AI", "level": "advanced"}
+    },
+    {
+        "id": 9,
+        "title": "Music Composition",
+        "tags": ["music", "composition"],
+        "published": true
+    },
+    {
+        "id": 10,
+        "title": "Personal Finance",
+        "views": 450,
+        "metadata": {"advice": "budgeting"}
+    }
+]

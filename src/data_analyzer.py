@@ -1,14 +1,14 @@
-import sys  
-from utils import greet 
+import sys
+from utils import greet
 
 # Variables
-name = "Jess"              
-age = 22                   
-numbers = [1, 2, 3, 4, 5, 6]  
-person = {"name": "Jess", "age": 22}  
+name = "Jess"
+age = 22
+numbers = [1, 2, 3, 4, 5, 6]
+person = {"name": "Jess", "age": 22}
 fruits = ("apple", "banana", "cherry")
 
-        
+
 print("Variables:")
 print(name, age, numbers, person, fruits)
 print(fruits)
@@ -37,7 +37,7 @@ print("-" * 40)
 numbers = [1, 2, 3, 4, 5]
 
 print("Using enumerate:")
-for index, value in enumerate(numbers):  
+for index, value in enumerate(numbers):
     print(f"Index: {index}, Value: {value}")
 
 print("Using id (memory address):")
@@ -55,7 +55,7 @@ print("-" * 40)
 
 # Command Line Arguments
 if __name__ == "__main__":
-    if len(sys.argv) > 1:  
+    if len(sys.argv) > 1:
         print("Command line arguments received:")
         for i, arg in enumerate(sys.argv):
             print(f"Arg {i}: {arg}")
