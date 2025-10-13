@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Neha John",
+    "age": 29,
+    "email": "neha.j@example.com",
+    "is_active": true,
+    "roles": ["user"],
+    "profile": {
+      "bio": "Fitness enthusiast & amateur baker.",
+      "location": "Hyderabad"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sahithi",
+    "age": 41,
+    "email": "sahithi@abc.com",
+    "is_active": false,
+    "roles": ["admin", "user"],
+    "profile": {
+      "bio": "Data professional. Loves cricket.",
+      "location": "Delhi"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rajeev Ganesh",
+    "age": 35,
+    "email": "rajeev.m@workmail.com",
+    "is_active": true,
+    "roles": ["editor"],
+    "profile": {
+      "bio": "Book reviewer. Writes for tech blogs.",
+      "location": "Bangalore"
+    }
+  }
+]
+

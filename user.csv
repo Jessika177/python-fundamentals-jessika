@@ -1,0 +1,4 @@
+1,Neha John,29,neha.j@example.com,True,"['user']","{'bio': 'Fitness enthusiast & amateur baker.', 'location': 'Hyderabad'}"
+2,Sahithi,41,sahithi@abc.com,False,"['admin', 'user']","{'bio': 'Data professional. Loves cricket.', 'location': 'Delhi'}"
+3,Rajeev Ganesh,35,rajeev.m@workmail.com,True,"['editor']","{'bio': 'Book reviewer. Writes for tech blogs.', 'location': 'Bangalore'}"
+

@@ -1,0 +1,45 @@
+<users>
+  <user>
+    <id>1</id>
+    <name>Neha John</name>
+    <age>29</age>
+    <email>neha.j@example.com</email>
+    <is_active>true</is_active>
+    <roles>
+      <role>user</role>
+    </roles>
+    <profile>
+      <bio>Fitness enthusiast &amp; amateur baker.</bio>
+      <location>Hyderabad</location>
+    </profile>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Sahithi</name>
+    <age>41</age>
+    <email>sahithi@abc.com</email>
+    <is_active>false</is_active>
+    <roles>
+      <role>admin</role>
+      <role>user</role>
+    </roles>
+    <profile>
+      <bio>Data professional. Loves cricket.</bio>
+      <location>Delhi</location>
+    </profile>
+  </user>
+  <user>
+    <id>3</id>
+    <name>Rajeev Ganesh</name>
+    <age>35</age>
+    <email>rajeev.m@workmail.com</email>
+    <is_active>true</is_active>
+    <roles>
+      <role>editor</role>
+    </roles>
+    <profile>
+      <bio>Book reviewer. Writes for tech blogs.</bio>
+      <location>Bangalore</location>
+    </profile>
+  </user>
+</users>
